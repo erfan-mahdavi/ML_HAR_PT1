@@ -1,0 +1,6 @@
+WISDM_ar_v1.1_raw.txt
+WISDM_ar_latest.tar.gz
+*.txt
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
